@@ -44,10 +44,10 @@
             <n-h2>Clash</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/5feeddfd-f327-4a99-9277-9a7edd406226?style=flat&theme=default" loading="lazy" />
-              <n-li>https://openit.daycat.space/Clash.yaml</n-li>
+              <n-li>https://openit.daycat.space/clash</n-li>
             </n-ul>
 
-            <n-h2>v2ray</n-h2>
+            <n-h2>Base64</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/a8107f8b-761b-4b5c-a684-74ed4eaf5806?style=flat&theme=default" loading="lazy" />
               <n-li>https://openit.daycat.space/long</n-li>
@@ -62,7 +62,7 @@
             <n-h2>Quantumult X</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/875952a4-4e16-4fd3-910a-b700c57641c9?style=flat&theme=default" loading="lazy" />
-              <n-li>https://openit.daycat.space/Quanx.conf</n-li>
+              <n-li>https://openit.daycat.space/Qx</n-li>
             </n-ul>
           </div>
         </n-card>

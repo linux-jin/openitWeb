@@ -44,7 +44,7 @@
             <n-h2>Clash</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/5feeddfd-f327-4a99-9277-9a7edd406226?style=flat&theme=default" loading="lazy" />
-              <n-li>https://openit.daycat.space/clash</n-li>
+              <n-li><a href="clash://install-config?url=https://openit.daycat.space/clash&amp;name=Openit%20%E8%AE%A2%E9%98%85" target="_blank">https://openit.daycat.space/clash</a></n-li>
             </n-ul>
 
             <n-h2>Base64</n-h2>
@@ -56,7 +56,7 @@
             <n-h2>Shadowrocket</n-h2>
             <n-ul>
               <img src="https://api.checklyhq.com/v1/badges/checks/94ecef57-aedb-47e1-94d8-d8247ea02d9f?style=flat&theme=default" loading="lazy" />
-              <n-li>https://openit.daycat.space/https</n-li>
+              <n-li><a href="shadowrocket://config/add/https://openit.daycat.space/https" target="_blank">https://openit.daycat.space/https</a></n-li>
             </n-ul>
 
             <n-h2>Quantumult X</n-h2>
